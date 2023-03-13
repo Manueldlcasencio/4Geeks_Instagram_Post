@@ -1,0 +1,50 @@
+body {
+    background-color: black;
+}
+.card {
+    background-color: white;
+    margin:auto;
+    width: 30%;
+    margin-top: 150px;
+}
+.title {
+    display:flex;
+    padding: 5px
+}
+.icon {
+    padding: 10px;
+    display:block;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.icon2 {
+    padding: 5px;
+    font-size: 30px;
+}
+.opt {
+    padding: 10px;
+    display:block;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left:auto
+}
+.opt2 {
+    padding: 5px;
+    font-size: 30px;
+    margin-left:auto
+}
+.doble {
+    display:grid;
+    padding: 5px;
+}
+.foto {
+    object-fit: contain;
+    width: 100%;
+    height: auto;
+}
+.fin {
+    padding: 10px
+}
+.fin p{
+    text-align: justify;
+}
